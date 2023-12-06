@@ -1,4 +1,4 @@
 # Eshan
 My first git repository
 <br>
-nmae:ishan tandon
+namee:ishan tandon
